@@ -1,0 +1,17 @@
+.content {
+    display: flex;
+    align-items: space-between;
+    justify-content: space-between;
+    flex-direction: row;
+    height: 3rem;
+}
+
+.button {
+    margin: 0 2rem 0 0;
+    background-color: #1a365d;
+    border: none;
+    padding: 12px;
+    align-items: right;
+    border-radius: 10px;
+    color: white;
+}
